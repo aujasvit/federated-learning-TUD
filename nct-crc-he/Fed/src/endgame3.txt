@@ -1,0 +1,144 @@
+../new-paradigm/new-10-client-1-server-10-ood-2-severe-untrained-Adam/models
+
+cosine
+greater 1108 / 3276
+conv 1.2741466779771706
+running_var 0
+running_mean 0
+num_batches_tracked 0
+others 0.8064335954088931
+total 0.9606247215303026
+
+euclid
+greater 947 / 3276
+conv 1.0853501960902674
+running_var 0
+running_mean 0
+num_batches_tracked 0
+others 0.7769727359944146
+total 0.8786356349271119
+
+Server | Test Loss: 0.7117 | Test Accuracy: f0.7253 
+
+
+
+../new-paradigm/new-10-client-1-server-10-ana-10-untrained-Adam/models
+
+cosine
+greater 4896 / 6543
+conv 2.573807747034372
+running_var 10.125113595791607
+running_mean 10.229692857419579
+num_batches_tracked 0
+others 0.8859254949342282
+total 4.247270332382259
+
+euclid
+greater 4198 / 6543
+conv 2.235770801732182
+running_var 1.544220465454872
+running_mean 1.577463105756161
+num_batches_tracked 0
+others 0.6817543800371808
+total 1.6191029227247586
+
+Server | Test Loss: 0.5172 | Test Accuracy: f0.8189 
+
+
+
+../new-paradigm/new-10-client-1-server-10-ana-25-untrained-Adam/models
+
+cosine
+greater 4779 / 6543
+conv 2.9898089275359445
+running_var 10.12807388244466
+running_mean 10.200292523813259
+num_batches_tracked 0
+others 0.9422512509777129
+total 4.3337283501248605
+
+euclid
+greater 3928 / 6543
+conv 2.082935944068397
+running_var 1.5775571129636792
+running_mean 1.5493267550262524
+num_batches_tracked 0
+others 0.6140862718849416
+total 1.6150285607643433
+
+Server | Test Loss: 0.4565 | Test Accuracy: f0.8377 
+
+
+
+../new-paradigm/new-10-client-1-server-10-ana-50-untrained-Adam/models
+
+cosine
+greater 4700 / 6543
+conv 3.813438550309712
+running_var 10.085634893536083
+running_mean 10.177874494598237
+num_batches_tracked 0
+others 0.840844663320479
+total 4.430484716329119
+
+euclid
+greater 3818 / 6543
+conv 2.224866326089143
+running_var 1.5541787881009912
+running_mean 1.5567933133418594
+num_batches_tracked 0
+others 0.5279988343207642
+total 1.702537575622489
+
+Server | Test Loss: 0.8009 | Test Accuracy: f0.6970 
+
+
+
+../new-paradigm/new-10-client-1-server-10-ana-75-untrained-Adam/models
+
+cosine
+greater 4632 / 6543
+conv 4.13712145890403
+running_var 10.162664996230937
+running_mean 10.348329732083078
+num_batches_tracked 0
+others 0.8371882046315845
+total 4.527757606820686
+
+euclid
+greater 3797 / 6543
+conv 2.1900921134044973
+running_var 1.5609600177576206
+running_mean 1.5558828127659299
+num_batches_tracked 0
+others 0.47840926672201295
+total 1.6243793691030994
+
+Server | Test Loss: 2.2865 | Test Accuracy: f0.4719 
+
+
+
+../new-paradigm/new-10-client-1-server-10-sfa-untrained-Adam/models
+
+cosine
+greater 2164 / 2783
+conv 0
+running_var 1058120427668667.9
+running_mean 4333555900780326.0
+num_batches_tracked 0
+others 0
+total 2109786389393070.5
+
+euclid
+greater 2016 / 2783
+conv 0
+running_var 1.0
+running_mean 1.0
+num_batches_tracked 0
+others 0
+total 1.0
+
+Server | Test Loss: nan | Test Accuracy: f0.1023 
+
+
+
