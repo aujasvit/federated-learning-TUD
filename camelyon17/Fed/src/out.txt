@@ -1,0 +1,20 @@
+Epoch: 1 | train_loss: 0.1121 | train_acc: 0.9602 | validate_loss: 0.3896 | validate_acc: 0.8841
+Aggregated ModelEpoch: 1 | validate_loss: 0.5237 | validate_acc: 0.7744
+Epoch: 2 | train_loss: 0.1166 | train_acc: 0.9570 | validate_loss: 0.4096 | validate_acc: 0.8938
+Aggregated ModelEpoch: 2 | validate_loss: 0.3560 | validate_acc: 0.8621
+Epoch: 3 | train_loss: 0.0899 | train_acc: 0.9674 | validate_loss: 0.3651 | validate_acc: 0.8839
+Aggregated ModelEpoch: 3 | validate_loss: 0.3897 | validate_acc: 0.8621
+Epoch: 4 | train_loss: 0.0809 | train_acc: 0.9711 | validate_loss: 0.6700 | validate_acc: 0.8812
+Aggregated ModelEpoch: 4 | validate_loss: 0.4185 | validate_acc: 0.8659
+Epoch: 5 | train_loss: 0.0766 | train_acc: 0.9724 | validate_loss: 0.4889 | validate_acc: 0.8707
+Aggregated ModelEpoch: 5 | validate_loss: 0.3075 | validate_acc: 0.8985
+Epoch: 6 | train_loss: 0.0739 | train_acc: 0.9739 | validate_loss: 0.6149 | validate_acc: 0.8830
+Aggregated ModelEpoch: 6 | validate_loss: 0.3197 | validate_acc: 0.9000
+Epoch: 7 | train_loss: 0.0702 | train_acc: 0.9751 | validate_loss: 0.2787 | validate_acc: 0.9175
+Aggregated ModelEpoch: 7 | validate_loss: 0.2595 | validate_acc: 0.9077
+Epoch: 8 | train_loss: 0.0669 | train_acc: 0.9762 | validate_loss: 0.4437 | validate_acc: 0.8869
+Aggregated ModelEpoch: 8 | validate_loss: 0.2907 | validate_acc: 0.9032
+Epoch: 9 | train_loss: 0.0663 | train_acc: 0.9764 | validate_loss: 0.3950 | validate_acc: 0.8991
+Aggregated ModelEpoch: 9 | validate_loss: 0.2841 | validate_acc: 0.9125
+Epoch: 10 | train_loss: 0.0660 | train_acc: 0.9769 | validate_loss: 0.2155 | validate_acc: 0.9340
+Aggregated ModelEpoch: 10 | validate_loss: 0.2993 | validate_acc: 0.9061
