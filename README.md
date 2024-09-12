@@ -1,4 +1,4 @@
-# Mahalanobis distance-based client reliability measurement in Federated Learning Settings
+# Mahalanobis distance-based client reliability measurement in Federated Learning
 
 This repository contains the code developed during an internship at the **Medical and Environmental Computing Lab at Technische Universität Darmstadt**, under the supervision of **Mirko Konstantin** and **Dr. Anirban Mukhopadhyay**. The project focuses on implementing a **Mahalanobis distance-based client reliability measurement** to detect and exclude malicious or malfunctioning client updates from the aggregation process, thus preserving the global model’s performance.
 
